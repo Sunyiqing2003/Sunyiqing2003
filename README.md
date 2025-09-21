@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sunyiqing2003
 - 👀 I’m interested in applied probability and statistics.
-- 🌱 I’m currently learning graphical model and structure learning.
-- 📫 How to reach me :20307110401@fudan.edu.cn
+- 🌱 I’m currently learning differential privacy.
+- 📫 How to reach me :e1353400@u.nus.edu
 
 <!---
 Sunyiqing2003/Sunyiqing2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
