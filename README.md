@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sunyiqing2003
 - 👀 I’m interested in applied probability and statistics.
-- 🌱 I’m currently learning differential privacy.
+- 🌱 I’m currently learning the theory of differential privacy.
 - 📫 How to reach me :e1353400@u.nus.edu
 
 <!---
